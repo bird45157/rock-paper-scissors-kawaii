@@ -17,7 +17,7 @@ A super cute, minimalistic Rock Paper Scissors game built with Python and Tkinte
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-kawaii.git
+   git clone https://github.com/Sidzzzzzzzzzzzz/rock-paper-scissors-kawaii.git
    ```
 
 2. Make sure you have Python 3 installed.
@@ -39,9 +39,8 @@ rock-paper-scissors-kawaii/
 ├── assets/
 │   └── kawaii.wav (optional)
 ├── screenshots/
-│   ├── splash.png
-│   ├── gameplay.png
-│   └── ...
+│   ├── Screenshot (192).png
+│   ├── Screenshot (193).png
 ├── src/
 │   └── main.py
 ├── README.md
@@ -50,8 +49,8 @@ rock-paper-scissors-kawaii/
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash.png)
-![Gameplay](screenshots/gameplay.png)
+![Splash Screen](screenshots/Screenshot%20(192).png)
+![Gameplay](screenshots/Screenshot%20(193).png)
 
 ## Credits
 
